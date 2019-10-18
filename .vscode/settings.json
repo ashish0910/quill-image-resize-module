@@ -1,0 +1,15 @@
+{
+	"prettier.disableLanguages": [
+		"html",
+		"js",
+		"javascript",
+		"vue",
+		"less",
+		"scss"
+	],
+	"vetur.format.defaultFormatter.css": "none",
+	"vetur.format.defaultFormatter.scss": "none",
+	"vetur.format.defaultFormatter.html": "none",
+	"vetur.format.defaultFormatter.js": "none",
+	"vetur.format.defaultFormatter.less": "none"
+}
